@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 __Hello, world!__<br>
-Este projeto é o meu primeiro tentando fazer layout, o intuito era fazer ele bem simples mesmo somente com uma página, e não deixar visualmente poluído, foi feito para treinar minhas habilidades com HTML e CSS.<br>
+Este projeto é o meu primeiro tentando fazer layout, o intuito era fazer ele bem simples mesmo, somente com uma página, e não deixar visualmente poluído, foi feito para treinar minhas habilidades com HTML e CSS.<br>
 O projeto contém uma foto minha, com um título, um breve texto e 4 botões.
 
 ## Resultado:
