@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #eeeeee;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  cursor: pointer;
+}
+
+#minha-foto {
+  margin: 0;
+  padding: 0;
+}
+
+#menu {
+  position: absolute;
+  text-align: right;
+  top: 20px;
+  width: 250px;
+  left: 1090px;
+  line-height: 30px;
+  height: 30px;
+}
+
+#menu a {
+  text-decoration: none;
+  padding-right: 30px;
+  margin-bottom: -80px;
+}
+
+.about {
+  color: #e91e63;
+}
+
+.contact {
+  color: #999999;
+}
+
+#descricao {
+  position: absolute;
+  color: #e91e63;
+  text-align: center;
+  top: 150px;
+  left: 750px;
+  width: 400px;
+  line-height: 30px;
+  height: 30px;
+}
+
+.titulo {
+  color: #e91e63;
+}
+
+.apresentacao {
+  color: #db90aa;
+}
+
+#linha-horizontal {
+  position: absolute;
+  width: 750px;
+  border: 2px solid #e91e63;
+  left: 320px;
+  bottom: 50px;
+}
+
+#contato {
+  text-decoration: none;
+  text-align: right;
+  color: #e91e63;
+  position: absolute;
+  text-align: right;
+  bottom: 30px;
+  width: 250px;
+  left: 1090px;
+  line-height: 70px;
+  height: 30px;
+}
+
+#contato a {
+  text-decoration: none;
+  color: #e91e63;
+  padding-right: 20px;
+}
